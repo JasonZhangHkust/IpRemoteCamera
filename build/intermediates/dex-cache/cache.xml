@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_703200da56925a18382c7f75bf01b57c5bc6daab\classes.dex" />
+    </item>
+    <item
+        jar="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.3.0_a4906f9396247eabebc006dde945daab655ce8a4\classes.dex" />
+    </item>
+    <item
+        jar="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\libs\Lab_4_Lib.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="11f2f40a78f7a537a17a03d96f56bb615f0a611d">
+        <dex dex="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\2\Lab_4_Lib_64f2e663f187d864beef4483f050814c66d72919\classes.dex" />
+    </item>
+    <item
+        jar="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="739aba826dd96d2d9536c0f39ed67c83737c8b8c">
+        <dex dex="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_30c26d535e05b75b5b85e90500396b9ed0b998bb\classes.dex" />
+    </item>
+    <item
+        jar="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_9cf7f925655c8fdd938e11f6fff474d3d33bd86a\classes.dex" />
+    </item>
+    <item
+        jar="I:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_a890a2dd65f4a258114a9a4b07615b55b784a5af\classes.dex" />
+    </item>
+    <item
+        jar="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fc930a3df5f5da73b9bf24ece5762a346742e0b1">
+        <dex dex="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_412bd6d6b78683ba70963d9167e50fef6d3226dd\classes.dex" />
+    </item>
+    <item
+        jar="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_2137f5ef850ac0783feed421f49fe4fd58644446\classes.dex" />
+    </item>
+    <item
+        jar="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_d92ed74b7f1ace0d6d6e285542878b8a5bfef8bd\classes.dex" />
+    </item>
+    <item
+        jar="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="I:\hkust\embedded\LabAssign4a\android-Camera2Basic-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_4293e9afc05dedbd0324d985a8451a36953c32dd\classes.dex" />
+    </item>
+
+</items>
